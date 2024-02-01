@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+motor
+python-jose[cryptography]
+python-multipart
+pytest
+pytest-asyncio
+sqlalchemy
+async-exit-stack
+async-generator
+passlib[bcrypt]
+python-dotenv
+email-validator
